@@ -1,0 +1,22 @@
+*{
+  padding:10px;
+  margin:0;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: underline; 
+  color:blue;
+  }
+
+p{
+  margin-left: 10px;
+}
+
+#para{
+  margin-left: 0px;
+}
+
+h2{
+  margin-left: 5px;
+}
